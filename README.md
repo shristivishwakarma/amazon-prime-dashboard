@@ -1,12 +1,12 @@
-# 🎬 Amazon Prime Titles Dashboard - Power BI Project
+# Amazon Prime Titles Dashboard - Power BI Project
 
-## 📌 Overview
+## Overview
 
 This project is a **Data Analysis Dashboard of Amazon Prime Titles** built in **Power BI**. It provides insights into thousands of titles available on Amazon Prime, including their genres, ratings, release years, country distribution, and more. The goal is to understand the content library through data-driven visuals.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze the number of titles by **type**, **genre**, **rating**, and **release year**
 - Visualize **geographical distribution** of shows
@@ -15,7 +15,7 @@ This project is a **Data Analysis Dashboard of Amazon Prime Titles** built in **
 
 ---
 
-## 🧩 Dataset
+## Dataset
 
 - **Source**: Public dataset of Amazon Prime shows and movies
 - **Total Records**: 9,687 rows
@@ -23,7 +23,7 @@ This project is a **Data Analysis Dashboard of Amazon Prime Titles** built in **
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - **KPIs**: Total titles, ratings, genres, directors, start & end date
 - **Visuals Included**:
@@ -35,7 +35,7 @@ This project is a **Data Analysis Dashboard of Amazon Prime Titles** built in **
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ![dashboard_SS](assets/dashboard_screenshot_1.png)
 *Data model preview showing raw dataset*
@@ -45,7 +45,7 @@ This project is a **Data Analysis Dashboard of Amazon Prime Titles** built in **
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Power BI Desktop**
 - **Microsoft Excel** (initial cleanup)
